@@ -6,7 +6,7 @@ Simple google trends app that you can use to know past, present, daily and in re
 [Ejs](https://ejs.co/)
 [D3](https://d3js.org/).
 
-![demo](public/img/trends.gif)
+![demo](public/img/gtrends.gif)
 
 ## Installation
 To install node modules use this command:
